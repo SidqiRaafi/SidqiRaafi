@@ -8,6 +8,7 @@ Undergraduate Informatics student focused on **Data Science**, **Applied Machine
 -  **Infrastructure:** Experience with Linux environments, enterprise data pipelines, and AWS cloud basics.
 
 ### Relevant Projects:
+-  **E-Commerce Performance Analytics:** End-to-end retail performance analysis, logistical SLA impact assessment, and geospatial mapping deployed via an interactive Streamlit dashboard.
 -  **Supermarket Business Analytics:** End-to-end data wrangling, exploratory analysis, and interactive Looker Studio dashboard.
 -  **Tabular ML Pipeline:** End-to-end predictive modeling with hyperparameter tuning and model evaluation in Scikit-Learn.
 -  **Celestial Object Classification:** Multi-class astronomical classification pipeline using Python.
