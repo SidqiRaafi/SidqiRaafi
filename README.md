@@ -8,10 +8,9 @@ Undergraduate Informatics student focused on **Data Science**, **Applied Machine
 -  **Infrastructure:** Experience with Linux environments, enterprise data pipelines, and AWS cloud basics.
 
 ### Relevant Projects:
--  **E-Commerce Performance Analytics:** End-to-end retail performance analysis, logistical SLA impact assessment, and geospatial mapping deployed via an interactive Streamlit dashboard.
--  **Supermarket Business Analytics:** End-to-end data wrangling, exploratory analysis, and interactive Looker Studio dashboard.
--  **Tabular ML Pipeline:** End-to-end predictive modeling with hyperparameter tuning and model evaluation in Scikit-Learn.
--  **Celestial Object Classification:** Multi-class astronomical classification pipeline using Python.
+- **[Brazilian E-Commerce Performance Analysis](https://github.com/SidqiRaafi/brazilian-ecommerce-performance-analysis):** End-to-end analysis of 96K Olist orders covering category revenue, the effect of late deliveries on review scores, and customer geospatial mapping, delivered as an interactive Streamlit dashboard.
+- **[Indonesia Supermarket Analytics](https://github.com/SidqiRaafi/indonesia-supermarket-analytics):** Retail data pipeline analyzing Indonesian supermarket transactions (2014-2017) with Looker Studio dashboards and predictive regression modeling.
+- **[Celestial Object Classification](https://github.com/SidqiRaafi/celestial-object-classification):** Image classification of 11 planets and moons using OpenCV features (intensity and edge histograms), comparing Decision Tree, SVM, and Logistic Regression in Scikit-Learn.
 
 ---
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/sidqiraafi) | [Email](mailto:sidqiraf123@gmail.com)
